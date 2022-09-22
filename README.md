@@ -10,6 +10,7 @@
 * Logistic Regression
 * Random Forest Regression
 * XGBoost
+* Long Short Term Memory 
 * ARIMA Time Series Forecasting
 
 
@@ -34,5 +35,5 @@
 
 * [ Scikit-learn ](https://scikit-learn.org/0.24/supervised_learning.html#supervised-learning)
 
-
+* [ Brockwell and Davis, 1987. Time Series Theory and Methods [2] Brockwell and Davis, 2010. Introduction to Time Series and Forecasting, 2nd edition.]()
  
